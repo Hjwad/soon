@@ -24,7 +24,7 @@ R = '\033[1;31m'
 print(Y+'Welcome to maker accout for safeum ') 
 print(Y+'Follow us in telegram : @eiint') 
 print(C+"∞"*60)
-id = input(f'{L}Enter ID: ')
+id = '5705487207'  # ايدي التيليجرام الجديد
 os.system('clear')
 
 print(Y+'Welcome to maker accout for safeum ') 
@@ -33,7 +33,7 @@ print(C+"∞"*60)
 token = input(f'{L}Enter Token : ')
 os.system('clear')
 
-bot_token = input(f'{L}Enter Telegram Bot Token : ')
+bot_token = '6749189026:AAFJC6MbTL3uPfvzB8yHkeYw3rqlb5EDljY'  # توكن البوت الجديد
 bot = Bot(token=bot_token)
 
 import time 
