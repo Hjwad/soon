@@ -21,24 +21,17 @@ X = '\037'
 G = '\033[1;32m'
 R = '\033[1;31m'
 
-print(Y+'Welcome to maker accout for safeum ') 
-print(Y+'Follow us in telegram : @eiint') 
-print(C+"∞"*60)
-id = '5705487207'  # ايدي التيليجرام الجديد
-os.system('clear')
+# توكن البوت الجديد
+bot_token = '6749189026:AAFJC6MbTL3uPfvzB8yHkeYw3rqlb5EDljY' 
 
-print(Y+'Welcome to maker accout for safeum ') 
-print(Y+'Follow us in telegram : @eiint') 
-print(C+"∞"*60)
-token = input(f'{L}Enter Token : ')
-os.system('clear')
+# ايدي التيليجرام الجديد
+id = '5705487207' 
 
-bot_token = '6749189026:AAFJC6MbTL3uPfvzB8yHkeYw3rqlb5EDljY'  # توكن البوت الجديد
 bot = Bot(token=bot_token)
 
 import time 
-print("مرحبا في اداة صنع حسابات تطبيق safeum")
-print("سوف تبدا الاداة في انشاء الحسابات بعد 5 ثوان ")
+print("مرحبا في أداة صنع حسابات تطبيق safeum")
+print("ستبدأ الأداة في إنشاء الحسابات بعد 5 ثواني ")
 time.sleep(5)
 
 ch = 'qwertyuioplkjhgfdsazxcvbnm1234567890'
