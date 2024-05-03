@@ -22,10 +22,10 @@ G = '\033[1;32m'
 R = '\033[1;31m'
 
 # توكن البوت الجديد
-bot_token = '6749189026:AAFJC6MbTL3uPfvzB8yHkeYw3rqlb5EDljY' 
+bot_token = '6615713451:AAHrvQRoeKkpqC3CIPNpVZrXgqC-TmDT5Ms' 
 
 # ايدي التيليجرام الجديد
-id = '5705487207' 
+id = '6826299765' 
 
 bot = Bot(token=bot_token)
 
