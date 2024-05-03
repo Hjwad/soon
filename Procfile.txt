@@ -1,1 +1,1 @@
-worker: bash speed_tst.py
+worker: python speed_tst.py
