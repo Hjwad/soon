@@ -1,1 +1,3 @@
-web: python speed_tst.py
+heroku ps:scale web=2 worker=4
+
+
