@@ -57,7 +57,7 @@ BY : @PPPJ0 | @M_R_C2
  headers = {
      "app": "com.safeum.android",
      "host": None,
-     "remoteIp": "wss://193.200.173.45/Auth",
+     "remoteIp": "wss://134.209.93.148/Auth",
      "remotePort": str(8080),
      "sessionId": "b6cbb22d-06ca-41ff-8fda-c0ddeb148195",
      "time": "2023-04-30 12:13:32",
