@@ -1,3 +1,3 @@
-worker: python3 
+worker: python3 speed_tst.py
 
 
