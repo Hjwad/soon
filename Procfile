@@ -1,1 +1,1 @@
-worker: python speed_tst.py
+web: python speed_tst.py
