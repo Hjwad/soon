@@ -7,6 +7,7 @@ import requests
 from time import sleep
 import random
 import concurrent.futures
+from judoscale.flask import Judoscale
 
 created=0
 failed=0
