@@ -1,4 +1,4 @@
-RUN pip install judoscale
+RUN pip install 'judoscale[flask]'
 import websocket
 import ssl
 import os
