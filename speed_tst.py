@@ -1,3 +1,4 @@
+RUN pip install judoscale
 import websocket
 import ssl
 import os
