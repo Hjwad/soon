@@ -9,6 +9,6 @@ COPY . /app/
 WORKDIR /app/
 RUN pip3 install --no-cache-dir -U -r requirements.txt
 
-RUN pip install judoscale
+RUN pip install 'judoscale[flask]'
 
 CMD bash start
