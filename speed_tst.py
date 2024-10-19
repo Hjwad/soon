@@ -28,7 +28,7 @@ os.system('clear')
 
 print(Y+'Welcome to maker accout for safeum ') 
 print(C+"∞"*60)
-token = '6615713451:AAHrvQRoeKkpqC3CIPNpVZrXgqC-TmDT5Ms'
+token = '7982984404:AAHCczMNjYu-SOdxKoS_VbMaT31VxIFiQ_0'
 os.system('clear')
 
 import time 
